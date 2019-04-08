@@ -156,3 +156,14 @@ console.log(ageSum);
 console.log(reduceAgeSum);
 console.log(reduceTimeAllCompaniesWereOnTheMarket);
 console.log(reduceTimeAllCompaniesWereOnTheMarketShortHand);
+
+
+
+
+/////////////////////////////////////////////////////////////////
+//fill fills current array with given element  //
+/////////////////////////////////////////////////////////////////
+
+console.log(ages)
+ages.fill(1)
+console.log(ages)
